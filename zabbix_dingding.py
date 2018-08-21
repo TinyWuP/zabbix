@@ -17,7 +17,7 @@ def msg(text):
         },
         "at": {
             "atMobiles": [
-                "1xxxxxxxxxxxxx"
+                ""
             ],
             "isAtAll": False
         }
